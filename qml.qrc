@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingWindow.qml</file>
+        <file>BackSettingItem.qml</file>
+        <file>ToggleButton.qml</file>
+        <file>GeneralButton.qml</file>
+    </qresource>
+</RCC>
